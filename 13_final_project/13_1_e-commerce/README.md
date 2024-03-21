@@ -1,6 +1,10 @@
 # E-commerce — Выявление профилей потребления
 
+## Примечание:
+Github не отображает все графики, чтобы их посмотреть, можно воспользоваться сервисом https://nbviewer.org/ Перейдите по ссылке, чтобы посмотреть проект: https://github.com/ErokhinaMarina/Portfolio_DA/blob/main/13_final_project/13_1_e-commerce/e-commerce.ipynb
+
 Ссылка на презентацию https://docs.google.com/presentation/d/1nbFW8d-lRLuvts3LabQHvBbzBQGxcSfsLVAj-gmKjck/edit?usp=sharing
+Ссылка на дашборд https://public.tableau.com/app/profile/marina.erokhina/viz/Book1_16928646677840/Dashboard?publish=yes
 
 ## Описание проекта:
 Интернет-магазин товаров для дома «Пока все ещё тут» в срочном порядке ищет аналитиков. Вы поможете нашему магазину стать лучше, а клиентам — обустроить дом своей мечты. Наши ближайшие задачи — анализ товарного ассортимента и создание гипотез на основе полученных данных. «Пока все ещё тут» — мы создаём уют!
