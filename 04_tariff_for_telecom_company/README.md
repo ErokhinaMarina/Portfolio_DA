@@ -20,5 +20,5 @@
 - подготовка выводов.
 
 ## Инструменты:
-Python - библиотеки Pandas, Matplotlib.
+Python - библиотеки Pandas, NumPy.
 
