@@ -23,4 +23,4 @@
 
 ## Инструменты:
   
-Python - библиотеки Pandas, NumPy, Math, Datetime, Matplotlib, SciPy.
+Python - библиотеки Pandas, NumPy, Datetime, Matplotlib, SciPy.
