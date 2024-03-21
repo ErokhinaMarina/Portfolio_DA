@@ -2,7 +2,7 @@
 
 ## Примечание:
 
-Github не отображает карты из библиотеки folium, чтобы их посмотреть, можно воспользоваться сервисом https://nbviewer.org/ Перейдите по ссылке, чтобы посмотреть проект: https://nbviewer.org/github/ErokhinaMarina/Portfolio_DA/blob/main/11_cafe_market_analysis/cafe_market_analysis.ipynb
+Github не отображает карты из библиотеки folium, чтобы их посмотреть, можно воспользоваться сервисом https://nbviewer.org/ Перейдите по ссылке, чтобы посмотреть проект: https://nbviewer.org/github/ErokhinaMarina/Portfolio_DA/blob/380554878ee9da25ec3e9c7cb9ea1b07e25969f1/11_cafe_market_analysis/cafe_market_analysis.ipynb
 
 ## Описание проекта:
 Инвесторы из фонда «Shut Up and Take My Money» решили попробовать себя в новой области и открыть заведение общественного питания в Москве. Заказчики ещё не знают, что это будет за место: кафе, ресторан, пиццерия, паб или бар, — и какими будут расположение, меню и цены.
