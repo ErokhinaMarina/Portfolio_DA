@@ -32,5 +32,5 @@
 - общий вывод.
 
 ## Инструменты:
-Python - библиотеки Pandas, NumPy, Matplotlib.
+Python - библиотеки Pandas, Matplotlib, NumPy, Seaborn, SciPy.
 
