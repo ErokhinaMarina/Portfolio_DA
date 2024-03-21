@@ -27,5 +27,6 @@ Github не отображает все графики, чтобы их посм
 - выводы и рекомендации.
 
 ## Инструменты:
-- Python - библиотеки Pandas, Matplotlib, Seaborn, SciPy, NumPy;
+- Python - библиотеки Pandas, Matplotlib, Seaborn, SciPy, Datetime, Plotly;
+- Power Point;
 - Tableau.
